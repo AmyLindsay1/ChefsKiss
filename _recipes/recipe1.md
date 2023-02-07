@@ -5,11 +5,11 @@ order: 2
 layout: recipe
 published: true
 ---
-Aute velit minim ad ut deserunt ipsum eiusmod. Laborum nisi ex qui exercitation elit dolor consectetur. Ullamco ex eiusmod ad dolor nisi adipisicing est esse. Veniam nostrud do laboris id est nulla qui nulla. Lorem velit nulla in tempor nisi laboris. Dolor culpa mollit elit anim minim Lorem.
+A delicious, crispy fried snack made with a combination of cooked rice, cheese, and vegetables. The exterior is crunchy and golden, while the inside is filled with a creamy, cheesy filling. The combination of flavors and textures makes it a perfect snack or appetizer.
 
-![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
+![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/truffle-arancini-933c2ac.jpeg "Photo by Joseph Smart")
 
-aranchini recipie 
+
 
 INGREDIENTS: 
 
@@ -41,18 +41,21 @@ INGREDIENTS:
 
 2 cups water Salt, to taste 
 
-
-
 METHOD: 
 
 1. Wash the rice and soak in enough water for 30 minutes. 
 
+
 2. Heat the oil in a deep non-stick pan, add the bay leaves, cloves, cardamoms, cinnamon stick, cumin seeds, garlic and ginger and sauté for a few seconds. 
+
 
 3. Add the onion and sauté on a medium flame for 2 to 3 minutes or till the onion turns golden brown in colour. 
 
-4. Add the tomato, coriander, mint and 1 cup of water, mix well and cook on a medium flame for 1 minute
+
+4. Add the tomato, coriander, mint and 1 cup of water, mix well and cook on a medium flame for 1 minute.
+
 
 5. Add the rice, remaining 1 cup of water and salt, mix gently and cook ona medium flame for 5 to 7 minutes or till the rice is cooked.
+
 
 6. Serve hot.
