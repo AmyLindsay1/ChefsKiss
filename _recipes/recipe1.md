@@ -1,46 +1,58 @@
 ---
-layout: recipe
-title: Some recipe
+title: ARANCHINI
 date: 2022-10-19
-published: true
 order: 2
+layout: recipe
+published: true
 ---
 Aute velit minim ad ut deserunt ipsum eiusmod. Laborum nisi ex qui exercitation elit dolor consectetur. Ullamco ex eiusmod ad dolor nisi adipisicing est esse. Veniam nostrud do laboris id est nulla qui nulla. Lorem velit nulla in tempor nisi laboris. Dolor culpa mollit elit anim minim Lorem.
 
 ![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
 
+aranchini recipie 
 
-## Ingredients
+INGREDIENTS: 
 
-- 1 kg something or something else
-- 160 ml something or something else
-- ½ large something or something else
-- 450 grams something or something else
-- 1 glass white wine 
-- 350 grams fresh something or something else,
-- 1400 grams something or something else, drained of some of their juice and chopped
-- teaspoon ground something or something else
-- teaspoon ground something or something else
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped something
-- 80 grams something
-- 80 grams something else
-- 600 ml warm something
-- 2 egg yolks
-- 4 tablespoons toasted something or something else
+1 cup long grain basmati rice
+
+ 2 tablespoons sunflower oil 
+
+2 bay leaves 
+
+2 cloves 
+
+2 whole cardamoms 
+
+1 inch cinnamon stick 
+
+1 teaspoon cumin seeds
+
+1 teaspoon finely chopped garlic 
+
+1 teaspoon finely chopped ginger 
+
+1 large onion, finely sliced 
+
+1 large tomato, diced 
+
+2 tablespoons chopped fresh coriander
+
+ 2 tablespoons chopped fresh mint 
+
+2 cups water Salt, to taste 
 
 
-## Method
 
-Occaecat nulla proident do aute non amet cillum et enim. Non in commodo consequat minim. Id excepteur adipisicing cillum minim Lorem anim est eiusmod incididunt. Consectetur nostrud pariatur amet enim dolore labore deserunt tempor magna fugiat dolor veniam anim. Ut ex sit ullamco ullamco magna aliqua cupidatat ullamco adipisicing tempor. Cupidatat fugiat in consectetur quis sunt laboris qui veniam sunt id deserunt minim.
+METHOD: 
 
-Laborum dolore minim veniam excepteur aliquip aliqua mollit minim id exercitation ipsum. Quis sint qui enim labore amet irure culpa eiusmod ullamco amet minim aliquip ut eiusmod. Qui Lorem dolore labore esse reprehenderit cillum reprehenderit.
+1. Wash the rice and soak in enough water for 30 minutes. 
 
-Do elit laboris irure pariatur nostrud officia. Proident anim amet officia irure occaecat aliqua nisi ex. Non minim excepteur consectetur mollit aliquip ad occaecat est velit. Enim laboris mollit reprehenderit cupidatat voluptate ipsum aliquip nostrud deserunt amet. Qui aliquip deserunt commodo pariatur qui anim. Aliquip excepteur reprehenderit in sint enim Lorem non Lorem pariatur adipisicing dolore ullamco incididunt ullamco.
+2. Heat the oil in a deep non-stick pan, add the bay leaves, cloves, cardamoms, cinnamon stick, cumin seeds, garlic and ginger and sauté for a few seconds. 
 
-Cupidatat nostrud excepteur sunt exercitation excepteur dolor adipisicing. Aliqua et commodo do duis fugiat non consequat duis. Esse velit velit sit aute voluptate exercitation cupidatat velit cupidatat duis culpa non duis deserunt. Non voluptate et ea incididunt elit irure eu irure ullamco ea Lorem tempor. Veniam sint irure reprehenderit mollit nisi amet fugiat nulla duis. Nulla nostrud sint reprehenderit est enim dolore ipsum. Sint eu anim excepteur consectetur ipsum.
+3. Add the onion and sauté on a medium flame for 2 to 3 minutes or till the onion turns golden brown in colour. 
 
-- Serves: 6
-- Preparation time: 1 hour
+4. Add the tomato, coriander, mint and 1 cup of water, mix well and cook on a medium flame for 1 minute
+
+5. Add the rice, remaining 1 cup of water and salt, mix gently and cook ona medium flame for 5 to 7 minutes or till the rice is cooked.
+
+6. Serve hot.
