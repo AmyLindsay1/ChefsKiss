@@ -1,6 +1,6 @@
 ---
 title: Chefs Kiss
-coverimage: ../uploads/bookcover.jpg
+coverimage: ../uploads/4.jpg
 permalink: /
 layout: recipeshome
 published: true
