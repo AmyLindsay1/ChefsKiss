@@ -1,7 +1,8 @@
+
 /*! CSS bare bones for recipes site */
 
  html {
-  font-family: sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -14,4 +15,57 @@
 
 /* the rest is up to you */
 
+body {
+  background-color: rgb(195, 167, 167);
+}
 
+h1 {
+  color: rgb(244, 209, 198);
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+h2 {
+  color: pink;
+}
+
+h1,h2 {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+  color: rgb(0, 0, 0);
+  margin-bottom: 1em;
+}
+
+main {
+width: 60%;
+max-width:850px;
+/* border:1px solid black; */
+padding: 0 12px 0 12px;
+margin:0 auto;
+background-color: white;
+}
+
+img {
+width:100%;
+/* float: right; */
+}
+
+ul {
+  margin-left:20px;
+  columns: 2;
+  /* column-rule: 1px solid black; */
+}
+
+li {
+  font-size: .8em;
+  margin-bottom: 12px;
+  list-style-position: inside;
+}
+
+.caption {
+  font-size: .8em;
+  float: right;
+  width: 60;
+}
