@@ -1,5 +1,5 @@
 ---
-title: CARBONARA
+title: PASTA ALLA CARBONARA
 date: 2019-10-19
 order: 1
 layout: recipe
