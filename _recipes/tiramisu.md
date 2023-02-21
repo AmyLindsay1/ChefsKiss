@@ -10,27 +10,16 @@ A combination of creamy, sweet flavors with layers of coffee-soaked ladyfingers,
 
 ## Ingredients:
 
-\- 6 large egg yolks 
-
-\- 1/2 cup sugar 
-
-\- 1/2 cup mascarpone cheese 
-
-\- 1/4 cup sweet Marsala wine 
-
-\- 1/4 cup heavy cream 
-
-\- 2 tablespoons powdered sugar 
-
-\- 1 teaspoon lemon zest 
-
-\- 1/2 teaspoon vanilla extract 
-
-\- 2 tablespoons espresso or strong coffee 
-
-\- 1/2 cup crushed Italian ladyfingers 
-
-\- 2 tablespoons cocoa powder
+* 6 large egg yolks
+* 1/2 cup sugar
+* 1/2 cup mascarpone cheese
+* 1/4 cup sweet Marsala wine
+* 1/4 cup heavy cream
+* 2 tbsp powdered sugar
+* 1 tsp lemon zest
+* 1/2 tsp espresso or strong coffee
+* 1/2 crushed Italian ladyfingers
+* 2 tbsp cocoa powder
 
 ## Instructions:
 
