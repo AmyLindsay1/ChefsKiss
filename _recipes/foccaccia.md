@@ -10,19 +10,13 @@ Focaccia is a light, fluffy Italian flatbread bursting with flavor. Our Focaccia
 
 ### Ingredients:
 
-\-3 1/2 cups all-purpose flour 
-
-\-2 tsp active dry yeast 
-
-\-2 tsp salt 
-
-\-1 1/2 cups lukewarm water 
-
-\-3 Tbsp olive oil -
-
-1 Tbsp coarse salt 
-
-\-1 Tbsp rosemary 
+* 3 1/2 cups all-purpose flour
+* 2 tsp active dry yeast
+* 2 tsp salt
+* 1 1/2 cups lukewarm water
+* 3 tbsp olive oil
+* 1 tbsp coarse salt
+* 1 tbsp rosemary
 
 ### Instructions:
 
