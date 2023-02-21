@@ -10,29 +10,17 @@ Pasta alla Norma is a classic Sicilian dish that is sure to satisfy. This dish f
 
 ### Ingredients
 
-\- 1/4 c. extra-virgin olive oil, plus more as needed
-
-\- 1 lb. eggplant, cut into 1-inch cubes
-
-\- Kosher salt
-
-\- 1 lb. rigatoni
-
-\- 1 small yellow onion, chopped
-
-\- 3 cloves garlic, minced
-
-\- 1 tsp. dried oregano
-
-\- 1/4 tsp. red pepper flakes
-
-\- 1 (28-oz.) can crushed tomatoes
-
-\- Freshly ground black pepper
-
-\- Ricotta salata, for serving
-
-\- Basil, for serving
+* 1/4c. extra-virgin olive oil, plus more as needed
+* 1 Ib eggplant, cut into cubes
+* Kosher salt
+* 1 Ib rigatoni 
+* 1 small yellow onion, chopped
+* 3 cloves garlic, minced
+* 1 tsp. dried oregano 
+* 1/4 tsp red pepper flakes
+* 1 can crushed tomatoes
+* Freshly ground black pepper
+* Basil, for serving
 
 ### Method
 
