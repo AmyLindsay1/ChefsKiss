@@ -6,7 +6,7 @@ layout: recipe
 ---
 Focaccia is a light, fluffy Italian flatbread bursting with flavor. Our Focaccia is made with a blend of Italian flours, extra virgin olive oil, and sea salt for an irresistibly savory, crispy crust. Topped with fresh rosemary and garlic, it's a delicious accompaniment to any meal.
 
-![](../uploads/8.jpg)
+![](../uploads/foc.jpg)
 
 ### Ingredients:
 
