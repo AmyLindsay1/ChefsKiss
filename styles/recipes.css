@@ -2,7 +2,7 @@
 /*! CSS bare bones for recipes site */
 
  html {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family:Arial, Helvetica, sans-serif
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -20,11 +20,44 @@ body {
   /* background: white; */
 }
 
+.recipeshome main p
+{
+  
+  text-align: center;
+  padding: 20px;
+}
+
+.recipeshome main
+{
+  padding: 50px;
+
+}
+
+.post-link
+{
+text-align: center;
+color: black;
+
+
+}
+
+.site-header
+{
+text-align: center;
+color: white;
+padding: 20px;
+}
+
+.post-content
+{
+ 
+}
+
+
 h1 {
-  color: rgb(1, 1, 1);
+  color: rgb(255, 255, 255);
   margin-bottom: 12px;
   text-align: center;
-  
 }
 
 h2 {
@@ -32,12 +65,14 @@ h2 {
 }
 
 h1,h2 {
-  font-family: 'Times New Roman', Times, serif;
-}
+  font-family:Georgia, 'Times New Roman', Times, serif}
 
 p {
   color: rgb(0, 0, 0);
   margin-bottom: 1em;
+  padding: 10px;
+
+  
 }
 
 main {
@@ -45,7 +80,7 @@ width: 60%;
 max-width:850px;
 /* border:1px solid black; */
 padding: 0 12px 0 12px;
-margin:0 auto;
+margin: 0 auto;
 background-color: white;
 }
 
@@ -70,4 +105,18 @@ li {
   font-size: .8em;
   float: right;
   width: 60;
+}
+
+
+button {
+  width: 270px;
+  background-color: black;
+
+}
+
+button a {
+  text-decoration: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: medium;
+  color: rgb(255, 255, 255);
 }
