@@ -4,9 +4,11 @@ date: 2023-02-07T15:58:50.938Z
 order: 3
 layout: recipe
 ---
-Pasta alla Norma is a classic Sicilian dish that is sure to satisfy. This dish features al dente rigatoni pasta tossed with a rich and flavorful sauce of sautéed eggplant, tomato, garlic and basil, then topped with ricotta salata cheese. Enjoy the unique combination of flavors in this traditional Italian dish!
+
 
 ![](../uploads/pasta.jpg)
+
+Pasta alla Norma is a classic Sicilian dish that is sure to satisfy. This dish features al dente rigatoni pasta tossed with a rich and flavorful sauce of sautéed eggplant, tomato, garlic and basil, then topped with ricotta salata cheese. Enjoy the unique combination of flavors in this traditional Italian dish!
 
 ### Ingredients
 
