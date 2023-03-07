@@ -4,8 +4,6 @@ date: 2023-02-07T15:42:52.009Z
 order: 5
 layout: recipe
 ---
-
-
 ![](../uploads/tira.jpg)
 
 A combination of creamy, sweet flavors with layers of coffee-soaked ladyfingers, rich mascarpone cheese, and cocoa powder give it a unique and delicious flavor that is hard to beat. The creamy, light texture of the mascarpone cheese pairs perfectly with the coffee-soaked ladyfingers, creating a perfect balance of flavors. Topped with cocoa powder, which gives it an additional layer of sweetness.
