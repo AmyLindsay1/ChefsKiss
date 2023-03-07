@@ -5,13 +5,11 @@ order: 1
 layout: recipe
 published: true
 ---
-
-
 ![](../uploads/carb.jpg)
 
 Our Carbonara is a classic Italian dish made with egg, cheese, and bacon. We use a combination of pancetta, pecorino cheese, and a touch of cream to create a rich, creamy sauce that pairs perfectly with al dente spaghetti. Our Carbonara is a flavorful yet simple dish that is sure to please any palate.
 
-### Ingredients:
+## Ingredients:
 
 * 4 large eggs
 * 4 ounces pancetta, diced
@@ -23,7 +21,7 @@ Our Carbonara is a classic Italian dish made with egg, cheese, and bacon. We use
 * 2 cloves garlic, minced
 * 2 tablespoons olive oil
 
-### Instructions:
+## Instructions:
 
 1. Bring a large pot of salted water to a boil. Add the spaghetti and cook according to package instructions. 
 2. Meanwhile, heat the olive oil in a large skillet over medium heat. Add the garlic and cook for 1 minute. 
