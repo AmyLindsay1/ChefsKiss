@@ -5,9 +5,11 @@ order: 2
 layout: recipe
 published: true
 ---
-A delicious, crispy fried snack made with a combination of cooked rice, cheese, and vegetables. The exterior is crunchy and golden, while the inside is filled with a creamy, cheesy filling. The combination of flavors and textures makes it a perfect snack or appetizer.
+
 
 ![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/aran.jpg "Photo by Joseph Smart")
+
+A delicious, crispy fried snack made with a combination of cooked rice, cheese, and vegetables. The exterior is crunchy and golden, while the inside is filled with a creamy, cheesy filling. The combination of flavors and textures makes it a perfect snack or appetizer.
 
 #### Ingredients:
 
