@@ -4,13 +4,11 @@ date: 2023-02-07T15:58:50.938Z
 order: 3
 layout: recipe
 ---
-
-
 ![](../uploads/pasta.jpg)
 
 Pasta alla Norma is a classic Sicilian dish that is sure to satisfy. This dish features al dente rigatoni pasta tossed with a rich and flavorful sauce of sautéed eggplant, tomato, garlic and basil, then topped with ricotta salata cheese. Enjoy the unique combination of flavors in this traditional Italian dish!
 
-### Ingredients
+## Ingredients
 
 * 1/4c. extra-virgin olive oil, plus more as needed
 * 1 Ib eggplant, cut into cubes
@@ -24,7 +22,7 @@ Pasta alla Norma is a classic Sicilian dish that is sure to satisfy. This dish f
 * Freshly ground black pepper
 * Basil, for serving
 
-### Method
+## Method
 
 1. Bring a large pot of salted water to a boil. Add rigatoni and boil until al dente according to box instructions. Reserve 1 cup pasta water, then drain.
 2. In another large pot over medium heat, heat oil. Add eggplant, working in batches as necessary to not overcrowd the pan. Cook eggplant until crispy and golden and soft inside, 8 to 10 minutes. Place on a plate to drain and season with salt. Repeat with remaining eggplant, adding more oil as needed. 
