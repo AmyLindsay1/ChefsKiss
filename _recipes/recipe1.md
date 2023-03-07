@@ -5,13 +5,11 @@ order: 2
 layout: recipe
 published: true
 ---
-
-
 ![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/aran.jpg "Photo by Joseph Smart")
 
 A delicious, crispy fried snack made with a combination of cooked rice, cheese, and vegetables. The exterior is crunchy and golden, while the inside is filled with a creamy, cheesy filling. The combination of flavors and textures makes it a perfect snack or appetizer.
 
-#### Ingredients:
+## Ingredients:
 
 * 1 cup long grain basmati rice
 * 2 tbsp sunflower oil
@@ -28,7 +26,7 @@ A delicious, crispy fried snack made with a combination of cooked rice, cheese, 
 * 2 tbsp chopped fresh mint
 * 2 cups water salt, to taste
 
-#### Method:
+## Method:
 
 1. Wash the rice and soak in enough water for 30 minutes. 
 2. Heat the oil in a deep non-stick pan, add the bay leaves, cloves, cardamoms, cinnamon stick, cumin seeds, garlic and ginger and sauté for a few seconds. 
