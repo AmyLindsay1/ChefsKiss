@@ -46,6 +46,7 @@ color: black;
 text-align: center;
 color: white;
 padding: 30px;
+  font-family:fantasy;
 }
 
 .post-content
@@ -57,6 +58,7 @@ padding: 30px;
 .site-title {
   text-decoration: none;
   color: black;
+  font-family:fantasy;
 }
 
 .list {
