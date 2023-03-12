@@ -3,7 +3,7 @@
 /*! CSS bare bones for recipes site */
 
 html {
-  font-family:Arial, Helvetica, sans-serif
+  font-family:Arial, Helvetica, sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -15,29 +15,6 @@ html {
 }
 
 /* the rest is up to you */
-
-@media screen (max-width: 700px;) {
-
-nav {
-  margin: 0;
-  position: static;
-  width: 100%;
-}
-
-nav ul {
-  font-size: 1rem;
-
-}
-
-main {
-  width: 100%;
-}
-
-}
-  
-
-
-
 
 
 body {
@@ -175,6 +152,22 @@ button a {
   color: black;
 }
 
+nav {
+width:20%;
+position: fixed;
+top:180px;
+background-color: bisque;
+}
+
+nav ul {
+  columns: unset;
+  font-size: .7em;
+}
+
+nav li {
+margin:.7em;
+}
+
 @media screen and (max-width: 700px) {
 
   main {
@@ -184,6 +177,20 @@ button a {
   }
 
   .recipe-teaser {
-    flex:1;
+    display:flex;
+  }
+
+  nav {
+    margin: 0;
+    position: static;
+    width: 100%;
+  }
+  
+  nav ul {
+    /* font-size: 1rem; */
+  }
+  
+  main {
+    width: 100%;
   }
 } 
