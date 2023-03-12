@@ -140,8 +140,7 @@ button a {
   justify-content: space-between;
 }
 
-/* each recipe is in a section with a class of recipe-teaser */
-/* these will become flex items */
+
 
 .recipe-teaser {
 border:1px solid rgb(161, 161, 161);
