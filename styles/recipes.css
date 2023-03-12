@@ -1,7 +1,9 @@
+
+
 /*! CSS bare bones for recipes site */
 
- html {
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+html {
+  font-family:Arial, Helvetica, sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -14,271 +16,197 @@
 
 /* the rest is up to you */
 
+
 body {
-  background-color: rgb(145, 145, 145);
-  padding: 6em 0;
+  background-color: rgb(209, 206, 181);
+  width: 100%;
+  font-size:10px;
+  /* background: white; */
 }
 
-.recipeshome {
-  background-color: white;
-  padding-top: 1em;
-  margin-top: 0;
+.recipeshome main p
+{
+  
+  
+  padding: 20px;
 }
 
-.recipeshome header {
-  display:none;
+.recipeshome main
+{
+  padding: 50px;
 }
 
+.post-link
+{
+color: black;
+}
+
+.site-header
+{
+text-align: center;
+color: white;
+padding: 30px;
+}
+
+.post-content
+{
+ 
+}
+
+
+.site-title {
+  text-decoration: none;
+  color: black;
+}
+
+.list {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
 
 h1 {
-  color: rgb(0, 56, 50);
+  color: rgb(0, 0, 0);
   margin-bottom: 12px;
   text-align: center;
+  background-color: white;
+  padding: 20px;
 }
 
 h2 {
-  color:green;
-  margin: 0 0 12px 0;
+  color: rgb(0, 0, 0);
 }
 
-h1,h2 {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-
-.listing h1 {
-  text-align: left;
-}
-
-.recipe-teaser h1 a {
-  text-decoration: none;
-  color: rgb(18, 101, 146);
-  /* padding: 10px; */
-}
-
-.recipe-teaser a:hover {
-  color: chocolate;
+h1,h2, h3, h4 {
+  font-family:fantasy;
 }
 
 p {
-color:rgb(59, 57, 57);
-margin-bottom:1em;
-}
-
-.recipeshome p {
-  font-size: 1.2em;
-}
-
-.recipeshome main p:first-of-type {
-  color:rgb(255, 255, 255);
-  font-size: 1.4em;
-  background-color: rgb(75, 124, 173);
-  padding: 4px;
-}
-
-header {
-  text-align: center;
-  background-color: black;
-  position:fixed;
-  top: 0;
-  padding: 1em 0;
-  width: 100%;
-  z-index: 1;
-  height:5rem;
-}
-
-header h1 a {
-  text-decoration: none;
-  color:white;
+  color: rgb(0, 0, 0);
+  margin-bottom: 1em;
+  padding: 0px;  
+  font-size: 1.5em;
 }
 
 main {
-width: 70%;
+width: 60%;
 max-width:850px;
-/* border:1px solid purple; */
-padding: .5em 1.5em;
-margin:0 auto;
+padding: 0 12px;
+margin: 0 auto;
 background-color: white;
-border: 1px solid silver;
-overflow: auto;
-}
-
-.home {
-  width: 60%;
-  /* float:right; */
-  margin: 2em auto;
-}
-
-.home img {
-width:100%;
-}
-
-
-
-footer {
-  position: fixed;
-  bottom: 0;
-  width:100%;
-  height: 4em;
-  background-color: black;
-  font-size: .8em;
-  
-}
-
-footer p {
-  text-align: center;
-  color:white;
-  line-height: 3;
-}
-
-ul {
-  margin-left: 12px;
-  /* columns: 2;
-  column-rule: 1px solid blue; */
-}
-
-li {
-font-size: .8em;
-margin-bottom: 12px;
-list-style-position: inside;
 }
 
 img {
-  width: 100%;
-  /* float:right; */
-  /* margin-left: 5px; */
+width:100%;
+/* float: right; */
+}
+
+ul {
+  margin-left:20px;
+  columns: 2;
+  /* column-rule: 1px solid black; */
+}
+
+li {
+  font-size: 1.5em;
+  margin-bottom: 12px;
+  list-style-position: inside;
+  display: flex;
 }
 
 .caption {
   font-size: .8em;
-  /* float:right; */
-  width:50%;
+  float: right;
+  width: 50;
+}
+
+
+button {
+  width: 270px;
+  background-color: black;
+}
+
+button a {
+  text-decoration: none;
+  font-family: fantasy;
+  font-size: small;
+  color: rgb(255, 255, 255);
   text-align: center;
 }
 
-p:has(img) {
-  float:right;
-  border:1px solid rgb(134, 134, 134);
-  width: 50%;
-  padding: 10px;
-  margin-left: 1em;
+.list {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
-
-.recipe-teaser p:has(img) {
-float:none;
-width:100%;
-padding:0;
-margin:0;
-border:none;
-}
-
-/* p:nth-child(n+6):has(img) {
-  float:right;
-  border:1px solid rgb(135, 135, 135);
-  width: 50%;
-  padding: 10px;
-  margin-left: 1em;
-  } */
-
- 
-
-/* the menu */
-
-nav a {
-  color: white;
-  text-decoration: none;
-}
-
-nav {
-  background-color: rgba(43, 13, 64, 0.84);
-  display: block;
-  /* border: 1px solid red; */
-  width: 15%;
-  padding: 10px;
-  margin: 0;
-  min-width: 120px;
-  position:fixed;
-  top:6em;
-  left:0;
-  z-index: 12;
-}
-
-nav ul {
-  list-style: none;
-}
-
-nav ul li {
-font-size: .6rem;
-}
-
-.recipehere {
-  color:orange;
-  }
-
-/* on the recipe listing page the recipes are in a div with a class of list */
-/* we can make this a flex box */
-
-  .list {
-    display:flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
 
 /* each recipe is in a section with a class of recipe-teaser */
 /* these will become flex items */
 
 .recipe-teaser {
-  border:1px solid rgb(161, 161, 161);
-  padding: 1em;
-  flex-basis: 300px;
-  flex-grow: 1;
-  margin:1em;
-  display:flex;
-  flex-direction: column;
-  justify-content:space-between
+border:1px solid rgb(161, 161, 161);
+padding: 1em;
+flex-basis: 300px;
+flex-grow: 1;
+margin:1em;
+display:flex;
+flex-direction: column;
+justify-content:space-between
 }
 
+nav {
+width:20%;
+position: fixed;
+top:180px;
+background-color: bisque;
+}
 
-  /* now comes the media queries */
+nav ul {
+  columns: unset;
+  font-size: .7em;
+}
 
+nav li {
+margin:.7em;
+}
 
-  @media screen and (max-width: 700px) {
+@media screen and (max-width: 700px) {
 
-    nav {
-    margin:0;
-    position: static;
-    width:100%;
-    }
-    
-    nav ul {
-    font-size:1rem;
-    }
-    
-      main {
-      width: 100%;
-      padding: 1em;
-      border: none;
-      }
-    
-      body {
-      background-color: white;
-      padding-top: 5em;
-    }
-
-    body.recipeshome {
-      padding-top:0;
-    }
-
-    .home {
-      width: 80%;
-      margin: .5em auto;
-    }
-    
-    p:has(img) {
-      float:none;
-      width:100%;
-      padding: 10px;
-      margin-left: 0;
-    }
-
+  nav {
+  margin:0;
+  position: static;
+  width:100%;
   }
+  
+  nav ul {
+  font-size:1rem;
+  }
+  
+    main {
+    width: 100%;
+    padding: 1em;
+    border: none;
+    }
+  
+    body {
+    background-color: white;
+    padding-top: 5em;
+  }
+
+  body.recipeshome {
+    padding-top:0;
+  }
+
+  .home {
+    width: 80%;
+    margin: .5em auto;
+  }
+  
+  p:has(img) {
+    float:none;
+    width:100%;
+    padding: 10px;
+    margin-left: 0;
+  }
+
+}
