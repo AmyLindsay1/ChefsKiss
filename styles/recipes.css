@@ -135,21 +135,23 @@ button a {
 }
 
 .list {
-  display: flex;
+  display:flex;
   flex-wrap: wrap;
-  justify-content: space-around;
-  display: flex;
-  
+  justify-content: space-between;
 }
 
+/* each recipe is in a section with a class of recipe-teaser */
+/* these will become flex items */
+
 .recipe-teaser {
-  border: 1px solid grey;
-  flex-basis: 200px;
-  margin: 1em;
-  flex:1;
-  padding: 1em;
-  border: 1px solid black; 
-  color: black;
+border:1px solid rgb(161, 161, 161);
+padding: 1em;
+flex-basis: 300px;
+flex-grow: 1;
+margin:1em;
+display:flex;
+flex-direction: column;
+justify-content:space-between
 }
 
 nav {
@@ -170,27 +172,41 @@ margin:.7em;
 
 @media screen and (max-width: 700px) {
 
-  main {
-    width: 100%;
-    padding: 1em;
-    margin: 0 auto;
-  }
-
-  .recipe-teaser {
-    display:flex;
-  }
-
   nav {
-    margin: 0;
-    position: static;
-    width: 100%;
+  margin:0;
+  position: static;
+  width:100%;
   }
   
   nav ul {
-    /* font-size: 1rem; */
+  font-size:1rem;
   }
   
-  main {
+    main {
     width: 100%;
+    padding: 1em;
+    border: none;
+    }
+  
+    body {
+    background-color: white;
+    padding-top: 5em;
   }
-} 
+
+  body.recipeshome {
+    padding-top:0;
+  }
+
+  .home {
+    width: 80%;
+    margin: .5em auto;
+  }
+  
+  p:has(img) {
+    float:none;
+    width:100%;
+    padding: 10px;
+    margin-left: 0;
+  }
+
+}
