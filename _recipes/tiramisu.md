@@ -21,7 +21,7 @@ A combination of creamy, sweet flavors with layers of coffee-soaked ladyfingers,
 * 1/2 crushed Italian ladyfingers
 * 2 tbsp cocoa powder
 
-## Instructions:
+## Method:
 
 1. Preheat the oven to 350°F (175°C). Grease a 9-inch (23 cm) springform pan. 
 2. In a large bowl, whisk the egg yolks and sugar until light and fluffy. 
