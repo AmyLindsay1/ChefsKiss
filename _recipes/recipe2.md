@@ -7,7 +7,7 @@ published: true
 ---
 ![](../uploads/carb.jpg)
 
-Our Carbonara is a classic Italian dish made with egg, cheese, and bacon. We use a combination of pancetta, pecorino cheese, and a touch of cream to create a rich, creamy sauce that pairs perfectly with al dente spaghetti. Our Carbonara is a flavorful yet simple dish that is sure to please any palate.
+Our Carbonara is a classic Italian dish made with egg, cheese, and bacon. We use a combination of pancetta, parmesan cheese, and a touch of cream to create a rich, creamy sauce that pairs perfectly with al dente spaghetti. Our Carbonara is a flavorful yet simple dish that is sure to please any palate.
 
 ## Ingredients:
 
