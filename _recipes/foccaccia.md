@@ -18,7 +18,7 @@ Focaccia is a light, fluffy Italian flatbread bursting with flavor. Our Focaccia
 * 1 tbsp coarse salt
 * 1 tbsp rosemary
 
-## Instructions:
+## Method:
 
 1. In a large bowl, mix together the flour, yeast and salt. 
 2. Add the water and olive oil to the dry ingredients and mix until a dough forms. 
